@@ -4,10 +4,10 @@ An end-to-end HR analytics project using Excel/Power Query, PostgreSQL, and Powe
 The project transforms raw HR data into SQL-driven business insights and an interactive Power BI dashboard to help HR teams identify attrition patterns, hiring trends, and performance opportunities.
 
 Tools Used
-Excel / Power Query – Data cleaning and transformation
-PostgreSQL – Data storage and SQL analysis
-SQL – Business queries and insights
-Power BI – Interactive dashboard and visualization
+1.Excel / Power Query – Data cleaning and transformation
+2.PostgreSQL – Data storage and SQL analysis
+3.SQL – Business queries and insights
+4.Power BI – Interactive dashboard and visualization
 
 Key Analysis
 Employee distribution by department and job role
